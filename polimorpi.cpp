@@ -17,6 +17,8 @@ public:
 };
 
 class lia :public seseorang {
+public:
+
 
 };
 
