@@ -22,3 +22,7 @@ public:
     }
 };
 
+class pelajar : virtual public orang {
+
+};
+
