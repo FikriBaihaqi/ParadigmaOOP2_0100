@@ -12,3 +12,9 @@ public:
     }
 };
 
+class pekerja : public orang {
+
+};
+
+
+
