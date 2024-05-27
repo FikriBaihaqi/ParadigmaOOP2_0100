@@ -21,6 +21,8 @@ public:
     void pesan() {
         cout << "Pesan dari lia" << endl;
     }
-
 };
 
+int main() {
+
+}
